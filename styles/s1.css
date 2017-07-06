@@ -1,0 +1,90 @@
+body{
+	margin:0 auto;
+	background-color:white;
+	
+}
+
+.head{
+	margin-top:200px;
+	margin-left:70px;
+}
+.H1{
+	margin-top:30PX;
+	margin-left:70px;	
+}
+.container{
+	width:400px;
+	height:300px;
+	text-align:center;
+	background-color:rgb(22,33,44);
+	background-radius:4px;
+	margin:0 auto;
+	margin-top:-150pxs
+    border-radius:8px;
+	margin-left:70px;
+
+	
+}
+input[type="text"],input[type="password"]{
+	height:45px;
+	width:300px;
+	font-size:18px;
+	border:none;
+	margin-top:40px;
+	margin-bottom:0px;
+	border-radius:4px;
+	background-color:#fff;
+	padding-left:20px;
+	
+}
+
+.btn-login{
+padding:15px 30px;
+cursor:pointer;
+color:#fff;
+border-radius:4px;
+border:none;
+background-color:#2ECC71;
+border-bottom:4px solid #27AE60;
+margin-top:20px;
+margin-bottom:20px;	
+}
+a{
+	color:#fff;
+}
+.containers{
+	width:400px;
+	height:300px;
+	text-align:center;
+	background-color:rgb(22,33,44);
+	background-radius:4px;
+	margin:0 auto;
+	margin-top:200px;
+border-radius:8px;
+	margin-left:70px;
+
+	
+}
+
+inputs[type="text"],inputs[type="password"]{
+	height:45px;
+	width:300px;
+	font-size:18px;
+	border:none;
+	margin-top:40px;
+	margin-bottom:0px;
+	border-radius:4px;
+	background-color:#fff;
+	padding-left:20px;
+	
+	
+}
+.CONT{
+	margin-top:100px;
+	margin-left:430px;
+}
+.tab{
+	margin-left:950px;
+	margin-top:-200px;
+	
+}
